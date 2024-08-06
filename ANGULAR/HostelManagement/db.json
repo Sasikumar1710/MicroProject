@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "stuName": "sasi",
+      "stuFees": "30000",
+      "stuRoom": "101"
+    },
+    {
+      "id": "2",
+      "stuName": "monesh",
+      "stuFees": "30000",
+      "stuRoom": "102"
+    },
+    {
+      "id": "3",
+      "stuName": "gowtham",
+      "stuFees": "30000",
+      "stuRoom": "103"
+    }
+  ]
+}

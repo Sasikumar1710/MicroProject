@@ -1,0 +1,31 @@
+    label {
+        font-weight: bold;
+        color: #900c3f;
+    }
+    h1 {
+        text-align: center;
+        color: white;
+        padding: 20px;
+        background-color: #402a23;
+    }
+    .container {
+        background-color: #f3bc77;
+        padding: 20px;
+        margin-top: 30px;
+        border-radius: 25px;
+       
+    }
+    table {
+        background-color: #402a23;
+        border: 2px solid black;
+        width: 95%;
+        border-radius: 80px;
+        overflow: hidden;
+    }
+    tr {
+        background-color: #ffc783;
+    }
+    body {
+        background-color: #a55233;
+    }
+    
